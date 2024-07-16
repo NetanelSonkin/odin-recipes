@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: #add8e6;
+    background-color: #f3f3f3;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+
+.img{
+    height: auto;
+    width: 200px;
+}
+
+div{
+    text-align: center;
+}
